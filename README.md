@@ -5,7 +5,7 @@ An open-source, field-ready pipeline for ergonomic risk assessment using smartph
 Features
 - Markerless 3D motion capture using multi-camera setup
 - GUI-based tools for calibration and pose analysis (KinemaTrack, PoseTrack)
-- < 15 min setup, smartphone-only, accurate (RMSE < 11°)
+- < 15 min setup, smartphone-only, accurate (RMSE < 13°)
 - Scalable & portable for workplace and field studies
 
 Download POISE GUI Tools
